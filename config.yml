@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Jon Irureta
-          subtitle: subtitle: |
+          subtitle: |
             I am a first year PhD student at Ikerlan and the University of the Basque Country. I focus on the challenges of training models over distributed data. My work has focused on Vertical Federated Learning, exploring how to build collaborative models when features are split across different entities. I am currently looking to expand my research into Model Merging and other emerging techniques for integrating knowledge from decentralized systems.
 
             My work is supervised by [Gorka Azkune](https://gazkune.github.io) (University of the Basque Country), [Javier Fernandez-Marques](https://jafermarq.com) (Flower Labs/University of Cambridge), Jon Imaz and Aizea Lojo (Ikerlan).
