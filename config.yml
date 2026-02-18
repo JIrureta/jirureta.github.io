@@ -62,7 +62,7 @@ params:
               url: books/
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: CV.pdf
         - name: Email
           url: mailto:jirureta@ikerlan.es
         - name: Location
